@@ -6,7 +6,7 @@
 */
 
 const typingElement = document.querySelector('.typing');
-const words = ["Coder", "Data Analyst", "Mobile App Developer", "Website Designer"];
+const words = ["Entreprenuer", "Programmer", "Flutter Developer", "Python Developer", "Wordpress Developer"];
 let wordIndex = 0;
 let letterIndex = 0;
 let currentWord = '';

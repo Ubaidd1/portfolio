@@ -145,6 +145,7 @@ h1, h2, h3, h4, h5, h6 {
   border-right: 2px solid #12D640;
   white-space: nowrap;
   overflow: hidden;
+  line-height: 1; 
   display: inline-block;
   animation: blinkCursor 0.7s step-end infinite;
 }
